@@ -1,5 +1,6 @@
 ## nodejs
 - 主线程是单线程(异步)callback，将后续的逻辑写成函数，传入到当前的函数中，当执行的函数得到了结果后，执行传人的函数
+- repl环境 (read eval print loop)
 
 ## web异步
 - setTimeout
@@ -38,4 +39,12 @@ npm publish
 
 
 
-
+## 转码
+```
+    let iconv = require("iconv-lite")
+    fs.readFile('2.txt',function(err,data){
+        // 把GBK编码的buffer转成UTF8字符串
+        let str = iconv.decode(data,'gbk')
+        console.log(str,'strgbk')
+    })
+```
