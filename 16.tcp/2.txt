@@ -1,0 +1,31 @@
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PKBET_ORG=Y; popMessage=1; onlineOutAuto=null; top_u=l=2; agencyAccount=%7B%22data%22:%7B%22sessionId%22:%222bb6cff6-0bb1-4a18-a74f-3ffe88b34fd8_2327_1%22,%22id%22:2327,%22account%22:%22adminaaa%22,%22roleId%22:2,%22roleName%22:%22%E5%BC%80%E6%88%B7%E4%BA%BA%22,%22cashUserType%22:2,%22agencyLevel%22:1,%22siteId%22:%22aaa%22,%22siteIndexId%22:%22a%22,%22levelId%22:0,%22isSub%22:2,%22parentId%22:0,%22ip%22:%22192.168.11.42%22,%22device%22:1,%22isKeepOnline%22:false,%22agency_id%22:0,%22agency_account%22:%22%22,%22expireTime%22:0,%22inviteUrl%22:%22%22,%22isWindowLock%22:0,%22sscs%22:null,%22timeOut%22:0,%22isShill%22:0%7D,%22password%22:%22Aa123456%22%7D; FullScreen=Y; sid=ab56c793-49d5-45f4-a070-280f408e18b3_425599_1
+
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PKBET_ORG=Y; popMessage=1; onlineOutAuto=null; top_u=l=2; agencyAccount=%7B%22data%22:%7B%22sessionId%22:%222bb6cff6-0bb1-4a18-a74f-3ffe88b34fd8_2327_1%22,%22id%22:2327,%22account%22:%22adminaaa%22,%22roleId%22:2,%22roleName%22:%22%E5%BC%80%E6%88%B7%E4%BA%BA%22,%22cashUserType%22:2,%22agencyLevel%22:1,%22siteId%22:%22aaa%22,%22siteIndexId%22:%22a%22,%22levelId%22:0,%22isSub%22:2,%22parentId%22:0,%22ip%22:%22192.168.11.42%22,%22device%22:1,%22isKeepOnline%22:false,%22agency_id%22:0,%22agency_account%22:%22%22,%22expireTime%22:0,%22inviteUrl%22:%22%22,%22isWindowLock%22:0,%22sscs%22:null,%22timeOut%22:0,%22isShill%22:0%7D,%22password%22:%22Aa123456%22%7D; FullScreen=Y; sid=ab56c793-49d5-45f4-a070-280f408e18b3_425599_1
+
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PKBET_ORG=Y; popMessage=1; onlineOutAuto=null; top_u=l=2; agencyAccount=%7B%22data%22:%7B%22sessionId%22:%222bb6cff6-0bb1-4a18-a74f-3ffe88b34fd8_2327_1%22,%22id%22:2327,%22account%22:%22adminaaa%22,%22roleId%22:2,%22roleName%22:%22%E5%BC%80%E6%88%B7%E4%BA%BA%22,%22cashUserType%22:2,%22agencyLevel%22:1,%22siteId%22:%22aaa%22,%22siteIndexId%22:%22a%22,%22levelId%22:0,%22isSub%22:2,%22parentId%22:0,%22ip%22:%22192.168.11.42%22,%22device%22:1,%22isKeepOnline%22:false,%22agency_id%22:0,%22agency_account%22:%22%22,%22expireTime%22:0,%22inviteUrl%22:%22%22,%22isWindowLock%22:0,%22sscs%22:null,%22timeOut%22:0,%22isShill%22:0%7D,%22password%22:%22Aa123456%22%7D; FullScreen=Y; sid=ab56c793-49d5-45f4-a070-280f408e18b3_425599_1
+
