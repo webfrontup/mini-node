@@ -1,0 +1,16 @@
+#! /usr/bin/env node
+// 这是一个可执行文件 #!后面跟上所需执行的环境变量
+
+let yargs = require('yargs')
+let argv2 = yargs.options('n',{
+    //node 2.hello.js --name yyccQQu
+    alias: 'name', //别名
+    demand: true, //必填
+    default: 'yyccQQu',
+    description: '请输入姓名'
+
+}).usage('usage zf-server [options]')
+.alias('h', 'help')
+.example('zf-server --port 3000 ')
+.argv;
+console.log(argv2)
